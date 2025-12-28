@@ -3,7 +3,6 @@ National Yang Ming Chiao Tung University - Supply Chain Management Lab 005
 Project files: https://drive.google.com/drive/folders/1d-MYQO56dG-KJ1oyyRLvfyPM6vdJG03s?usp=drive_link
 
 ## 專案開發流程:
-1. 開工前：同步最新進度
 
 為了保持 `main` 分支的穩定，請務必遵守以下「功能分支」開發流程：
 ### 1. 同步最新進度 (Start)
